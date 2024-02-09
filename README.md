@@ -1,4 +1,6 @@
-![logo](https://github.com/swarupam-bot/swarupam-bot/blob/main/gallery.png)
+<img src="https://github.com/swarupam-bot/swarupam-bot/blob/main/gallery.png" alt="logo" width="4000"/>
+
+
 <h1 align="center">Hi 👋, I'm Swarupam Kumar</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
